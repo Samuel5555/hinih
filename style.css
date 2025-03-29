@@ -1,0 +1,121 @@
+body{
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    padding-top: 70px;
+    font-size: 20px;
+
+}
+#first{
+    background-color:white;
+    padding-left: 20px;
+}
+#second{
+    background-image: url(light1.jpg);
+    background-size: cover;
+    padding-bottom: 90px;
+    padding-top: 80px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.protext{
+    padding-top: 80px;
+    color: blue;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.protext1{
+    color: white;
+    font-size: px;
+    padding-bottom: 150px;
+
+}
+.navbar-brand{
+    font-weight: bolder;
+    font-size: 36px;
+    padding: 0px;
+    margin: 0px;
+    color: teal;
+}
+
+li:hover{
+    background-color: lightblue;
+    box-shadow: 0 0 8px rgba(240,79,1,0.2);
+}
+li a:hover{
+    background-color: grey;
+}
+.dropdown-item:hover{
+    background-color: gray;
+}
+.probtn{
+    display: inline;
+
+}
+.btn1{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+.btn1:hover{
+    background: white;
+    color: black;
+    text-decoration: none;
+
+}
+.btn2{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 15px 25px;
+    text-decoration: none;
+    background: white;
+    color: black;
+
+}
+.btn2:hover{
+    background: none;
+    color: white;
+    text-decoration: none;
+}
+
+#third{
+    color: black;
+    text-align: center;
+    padding: 50px;
+
+}
+#fourth{
+    background-color: darkslateblue;
+    
+}
+.btn3{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 15px 25px;
+    text-decoration: none;
+    background: white;
+    color: black;
+    font: bold;
+    text-align: center;
+    margin-left: 150px;
+
+}
+.info{
+    padding-top: 20px;
+    border: 5px dotted white;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    text-align: justify;
+    padding: 20px;
+}
+.abtbtn{
+    margin-top: 5000cm;
+    border: 1px solid black;
+    text-decoration: none;
+    border-radius: 25px;
+    text-align: center;
+    padding: 8px;
+    color: black;    
+}
